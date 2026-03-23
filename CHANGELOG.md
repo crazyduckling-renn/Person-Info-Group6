@@ -1,3 +1,3 @@
-### v1.2.0 - [03-23-2026] - Added birth month. (@MohammedAzeemKareemMacumbal2026)
+### v1.2.0 - [03-23-2026] - Added 2013. (@MohammedAzeemKareemMacumbal2026)
 ### v1.1.0 - [03-23-2026] - Added 13/Iligan City. (@LiamChasby29)
 ### v1.0.0 - [03-23-2026] - Added name input. (@crazyduckling-renn)
